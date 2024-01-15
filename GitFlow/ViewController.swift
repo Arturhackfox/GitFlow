@@ -11,9 +11,28 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+      
     }
-
+    
+    func addColorRed() {
+        printContent("adding color red")
+    }
+    
+    func viewDetails2() {
+        printContent("adding color red")
+    }
+    
+    func viewDetails1() {
+        printContent("adding color red")
+    }
+    
+    func viewDetails3() {
+        printContent("adding color red")
+    }
+    
+    func viewDetails4() {
+        printContent("adding color red")
+    }
 
 }
 
