@@ -17,6 +17,22 @@ class ViewController: UIViewController {
     func addColorRed() {
         printContent("adding color red")
     }
+    
+    func viewDetails2() {
+        printContent("adding color red")
+    }
+    
+    func viewDetails1() {
+        printContent("adding color red")
+    }
+    
+    func viewDetails3() {
+        printContent("adding color red")
+    }
+    
+    func viewDetails4() {
+        printContent("adding color red")
+    }
 
 }
 
